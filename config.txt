@@ -1,0 +1,6 @@
+owner=612294289472356363
+prefix=dynk
+game=play
+stayinchannel=true
+songinstatus=false
+token=NjEyMjk0Mjg5NDcyMzU2MzYz.XfM_bA.Sv7U566ng6ZH1hIT_5EdddYUylc
